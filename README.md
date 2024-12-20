@@ -30,12 +30,8 @@ Here are some ideas to get you started:
 ### -->
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kooostia16.Kooostia16&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kooostia16.kooostia16&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
