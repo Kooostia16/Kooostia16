@@ -29,10 +29,6 @@ Here are some ideas to get you started:
 
 ### -->
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kooostia16.kooostia16&"  />
-</div>
-
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
@@ -78,3 +74,7 @@ Here are some ideas to get you started:
 </div>
 
 ###
+
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kooostia16.kooostia16&"  />
+</div>
