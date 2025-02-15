@@ -69,8 +69,12 @@ Here are some ideas to get you started:
 
 ###
 
-![Kooostia16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kooostia16&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooostia16&size_weight=0.5&count_weight=0.5)
+<a href="https://github.com/Kooostia16/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kooostia16" />
+</a>
+<a href="https://github.com/Kooostia16/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kooostia16&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ###
 
