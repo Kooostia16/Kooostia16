@@ -70,6 +70,7 @@ Here are some ideas to get you started:
 ###
 
 ![Kooostia16's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kooostia16&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kooostia16&size_weight=0.5&count_weight=0.5)
 
 ###
 
