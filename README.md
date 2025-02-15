@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 ###
 
 <a href="https://github.com/Kooostia16/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kooostia16" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kooostia16&card_width=200" />
 </a>
 <a href="https://github.com/Kooostia16/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kooostia16&layout=compact&langs_count=8&card_width=200" />
